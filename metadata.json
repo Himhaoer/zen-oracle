@@ -1,0 +1,5 @@
+{
+  "name": "Zen Oracle (灵台·易)",
+  "description": "A minimalist, aesthetic AI numerology master application. It uses Gemini to interpret fortunes via He Luo Li Shu, Mei Hua Yi Shu, and Character Decoding (Ce Zi) with a focus on serene UI and interaction.",
+  "requestFramePermissions": []
+}
